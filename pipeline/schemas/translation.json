@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "properties": {
+    "article_ua": {
+      "type": "string",
+      "description": "Full article translated to Ukrainian (markdown body)"
+    },
+    "title_ua": {
+      "type": "string",
+      "description": "Article title in Ukrainian"
+    },
+    "description_ua": {
+      "type": "string",
+      "description": "Meta description in Ukrainian, under 120 chars"
+    },
+    "tg_post_ua": {
+      "type": "string",
+      "description": "Telegram post in Ukrainian (HTML). Adapted, not literally translated. Character voice. Under 900 chars. No links."
+    }
+  },
+  "required": ["article_ua", "title_ua", "description_ua", "tg_post_ua"],
+  "additionalProperties": false
+}

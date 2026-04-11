@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "properties": {
+    "article_en": {
+      "type": "string",
+      "description": "Revised article in English (full markdown body)"
+    },
+    "title_en": {
+      "type": "string",
+      "description": "Revised title (empty string if unchanged)"
+    },
+    "description_en": {
+      "type": "string",
+      "description": "Revised meta description (empty string if unchanged)"
+    },
+    "image_prompt": {
+      "type": "string",
+      "description": "Revised image prompt (empty string if unchanged)"
+    }
+  },
+  "required": ["article_en"],
+  "additionalProperties": false
+}

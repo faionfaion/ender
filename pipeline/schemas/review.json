@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "properties": {
+    "approved": {
+      "type": "boolean",
+      "description": "True if article passes all checks without changes needed"
+    },
+    "feedback": {
+      "type": "string",
+      "description": "Detailed feedback for revision (empty string if approved)"
+    },
+    "fixes_applied": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "List of issues found (empty array if approved)"
+    },
+    "content_safe": {
+      "type": "boolean",
+      "description": "True if content is appropriate for kids/teens audience"
+    }
+  },
+  "required": ["approved", "feedback", "fixes_applied", "content_safe"],
+  "additionalProperties": false
+}

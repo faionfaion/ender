@@ -1,0 +1,50 @@
+{
+  "type": "object",
+  "properties": {
+    "article_en": {
+      "type": "string",
+      "description": "Full article in English (markdown body without frontmatter)"
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL slug (lowercase, hyphens, no lang suffix)"
+    },
+    "title_en": {
+      "type": "string",
+      "description": "Article title in English"
+    },
+    "description_en": {
+      "type": "string",
+      "description": "Meta description EN, under 120 chars, in character voice"
+    },
+    "tags": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Article tags (3-6 tags, lowercase, hyphens)"
+    },
+    "hashtags": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "3-5 hashtags for TG posts (without #, lowercase)"
+    },
+    "image_prompt": {
+      "type": "string",
+      "description": "Image generation prompt describing the scene with Roblox characters"
+    },
+    "summary_en": {
+      "type": "string",
+      "description": "Factual summary (1-2 paragraphs). Main topic, key facts, games/features mentioned. Used for editorial planning to avoid topic repetition."
+    }
+  },
+  "required": [
+    "article_en",
+    "slug",
+    "title_en",
+    "description_en",
+    "tags",
+    "hashtags",
+    "image_prompt",
+    "summary_en"
+  ],
+  "additionalProperties": false
+}

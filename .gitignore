@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+node_modules/
+.pytest_cache/
+gatsby/public/
+gatsby/.cache/
+state/logs/
+state/runs/
+.claude/worktrees/
+/tmp/

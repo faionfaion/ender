@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "tg_post_en": {
+      "type": "string",
+      "description": "Telegram post in English (HTML). Fun, engaging teaser in character voice. Start with character emoji + <b>bold hook</b>. Short paragraphs. Under 900 chars. No links. Kid-friendly tone."
+    }
+  },
+  "required": ["tg_post_en"],
+  "additionalProperties": false
+}

@@ -1,0 +1,37 @@
+{
+  "type": "object",
+  "properties": {
+    "intro": {
+      "type": "string",
+      "description": "1-2 sentence warm intro to the evening digest in character voice. Use <b>bold</b> for accents. Kid-friendly, energetic."
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "emoji": {
+            "type": "string",
+            "description": "Single emoji representing the article topic"
+          },
+          "headline": {
+            "type": "string",
+            "description": "Short headline (5-10 words)"
+          },
+          "slug": {
+            "type": "string",
+            "description": "Article slug for URL construction"
+          }
+        },
+        "required": ["emoji", "headline", "slug"]
+      },
+      "description": "Today's published articles as digest items"
+    },
+    "outro": {
+      "type": "string",
+      "description": "1 sentence closing. Fun sign-off from EnderFaion or FaionEnder."
+    }
+  },
+  "required": ["intro", "items", "outro"],
+  "additionalProperties": false
+}

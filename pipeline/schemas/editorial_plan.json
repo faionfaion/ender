@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "properties": {
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": {"type": "string"},
+          "topic_id": {"type": "string"},
+          "article_type": {"type": "string", "enum": ["news", "guide", "review", "lifehack", "top"]},
+          "character": {"type": "string", "enum": ["ender", "dad"]},
+          "priority": {"type": "integer"}
+        },
+        "required": ["label", "topic_id", "article_type", "character", "priority"]
+      },
+      "minItems": 5,
+      "maxItems": 5
+    }
+  },
+  "required": ["topics"]
+}
