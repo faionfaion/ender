@@ -18,5 +18,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "Overview of the 2026 vibe coding trend in Roblox Studio — AI plugins like Vibe Coder v0.5, Developer Intelligence, and Roblox's updated Assistant with 3D mesh generation let kids build games by describing what they want in plain English instead of writing code."
+  },
+  {
+    "date": "2026-04-12",
+    "slug": "roblox-studio-4d-building-tools-2026",
+    "title_en": "Roblox Studio Just Got 4D Building and It's Insane",
+    "title_ua": "У Roblox Studio з'явилося 4D-будівництво — і це просто шалено круто!",
+    "topic": "building-guides",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article covering Roblox Studio's biggest 2026 updates including 4D creation with the Cube Foundation Model, AI Assistant with MCP server integration, Playtest Agent automation, redesigned Studio UI, and Emissive Masks for glowing effects."
   }
 ]
