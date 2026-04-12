@@ -8,5 +8,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "Roblox Plus launches April 30, 2026, replacing Roblox Premium at $4.99/month with perks including up to 20% item discounts, free private servers, free Robux transfers, and item trading access. Existing Premium members get a free 1-month trial."
+  },
+  {
+    "date": "2026-04-12",
+    "slug": "vibe-coding-ai-plugins-roblox-studio-2026",
+    "title_en": "AI Can Now Build Roblox Games FOR You — Here's How!",
+    "title_ua": "ШІ тепер може будувати ігри в Roblox ЗАМІСТЬ тебе — ось як це працює!",
+    "topic": "dev-tutorials",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "Overview of the 2026 vibe coding trend in Roblox Studio — AI plugins like Vibe Coder v0.5, Developer Intelligence, and Roblox's updated Assistant with 3D mesh generation let kids build games by describing what they want in plain English instead of writing code."
   }
 ]
