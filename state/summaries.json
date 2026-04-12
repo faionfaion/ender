@@ -38,5 +38,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "Comprehensive 2026 obby guide covering the hottest games (Tower of Hell, Mega Fun Obby), pro gameplay tips like slowing down and skipping jumps on thin platforms, Tower of Hell secrets, and beginner advice for building your own obby in Roblox Studio."
+  },
+  {
+    "date": "2026-04-12",
+    "slug": "dads-corner-fps-fix-broke-everything",
+    "title_en": "Dad's Corner: I Tried to Fix My FPS and Broke Everything",
+    "title_ua": "Татовий куточок: Хотів підняти FPS — зламав усе",
+    "topic": "dad-corner",
+    "article_type": "news",
+    "character": "dad",
+    "summary_en": "Dad's Corner humor article where FaionEnder hilariously tries to fix Roblox lag, accidentally resets all his settings, but shares genuinely useful FPS optimization tips including the native FPS unlocker, graphics slider tricks, and common performance fixes."
   }
 ]
