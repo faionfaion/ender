@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-11",
+  "topics": [
+    {
+      "slot": 1,
+      "character": "ender",
+      "topic": "roblox-updates",
+      "content_type": "news",
+      "title_en": "Roblox Studio April Bugs: Textures Vanishing and Materials Breaking — What's Going On?",
+      "title_ua": "Баги Roblox Studio у квітні: текстури зникають, матеріали ламаються — що відбувається?",
+      "angle": "Recap of the latest Roblox Studio issues reported by developers — missing textures, broken material dropdowns, and loading problems after name changes. What Roblox says and when fixes are expected.",
+      "target_words": 400
+    },
+    {
+      "slot": 2,
+      "character": "ender",
+      "topic": "obby-tips",
+      "content_type": "guide",
+      "title_en": "Master Any Obby: 7 Pro Movement Tricks Most Players Don't Know",
+      "title_ua": "Пройди будь-який оббі: 7 про-трюків руху, про які більшість гравців не знає",
+      "angle": "Step-by-step guide to advanced obby mechanics — wall-hugging, ladder flicking, precise jump timing, and shift-lock camera tricks that help beat even the hardest stages.",
+      "target_words": 900
+    },
+    {
+      "slot": 3,
+      "character": "ender",
+      "topic": "game-reviews",
+      "content_type": "review",
+      "title_en": "Fisch Review: Is This Fishing RPG Worth the Hype in 2026?",
+      "title_ua": "Огляд Fisch: чи варта ця рибальська RPG хайпу у 2026?",
+      "angle": "Honest review of the popular fishing RPG — gameplay loop, best rods, mythic catches, what's new in recent updates, and whether it stays fun after 10+ hours.",
+      "target_words": 600
+    },
+    {
+      "slot": 4,
+      "character": "ender",
+      "topic": "trading-tips",
+      "content_type": "lifehack",
+      "title_en": "3 Signs You're About to Get Scammed in Roblox Trading (And How to Avoid It)",
+      "title_ua": "3 ознаки, що тебе хочуть обдурити в трейдингу Roblox (і як цього уникнути)",
+      "angle": "Quick safety lifehack for young traders — how to spot fake value claims, pressure tactics, and swap scams. Simple checklist before every trade.",
+      "target_words": 350
+    },
+    {
+      "slot": 5,
+      "character": "dad",
+      "topic": "dad-corner",
+      "content_type": "top",
+      "title_en": "Dad's Top 5 Roblox Games That Made Me Scream (Yes, Literally)",
+      "title_ua": "Тато-топ 5 ігор Roblox, від яких я кричав (так, буквально)",
+      "angle": "FaionEnder ranks 5 Roblox horror-lite and jumpscare games he tried this week — from Doors to Apeirophobia — with dad-humor commentary on each scream moment. Family-friendly spooks only.",
+      "target_words": 700
+    }
+  ]
+}

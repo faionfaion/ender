@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-12",
+  "topics": [
+    {
+      "slug": "weird-decal-glitch-roblox-april-2026",
+      "topic": "roblox-updates",
+      "content_type": "news",
+      "character": "ender",
+      "title_en": "Weird Decal Glitch Spotted in Roblox — What's Going On?",
+      "title_ua": "Дивний глітч із декалями у Roblox — що відбувається?",
+      "angle": "Breaking down the mysterious visual decal glitch players are reporting across multiple games, what likely causes it, and whether Roblox has acknowledged the bug",
+      "word_count": 350
+    },
+    {
+      "slug": "vibe-code-city-plugin-review",
+      "topic": "dev-tutorials",
+      "content_type": "review",
+      "character": "ender",
+      "title_en": "Vibe Code City Plugin — Is It Worth It for Young Developers?",
+      "title_ua": "Плагін Vibe Code City — чи варто його юним розробникам?",
+      "angle": "Hands-on review of the new Vibe Code City plugin for Roblox Studio, testing its features and workflow for beginner and intermediate builders",
+      "word_count": 500
+    },
+    {
+      "slug": "5-ways-keep-players-in-your-roblox-game",
+      "topic": "building-guides",
+      "content_type": "guide",
+      "character": "ender",
+      "title_en": "5 Proven Ways to Keep Players Hooked on Your Roblox Game",
+      "title_ua": "5 перевірених способів утримати гравців у твоїй грі в Roblox",
+      "angle": "Practical game design tips for young devs: daily rewards, progression loops, social features, hidden secrets, and seasonal events that boost retention",
+      "word_count": 800
+    },
+    {
+      "slug": "top-5-underrated-obbies-april-2026",
+      "topic": "obby-tips",
+      "content_type": "top",
+      "character": "ender",
+      "title_en": "Top 5 Underrated Obbies You NEED to Try This April",
+      "title_ua": "Топ-5 недооцінених оббі, які ТРЕБА спробувати цього квітня",
+      "angle": "Curated list of hidden gem obbies with unique mechanics — wall-running, gravity flips, puzzle hybrids — that most players haven't discovered yet",
+      "word_count": 600
+    },
+    {
+      "slug": "dad-tries-to-fix-fps-breaks-everything",
+      "topic": "dad-corner",
+      "content_type": "lifehack",
+      "character": "dad",
+      "title_en": "Dad's Corner: I Tried to Fix My FPS and Broke Everything",
+      "title_ua": "Татів куточок: Я спробував виправити FPS і все зламав",
+      "angle": "FaionEnder's hilarious story of trying to fix FPS drops when alt-tabbing from Roblox, with actually useful performance tips hidden inside the comedy",
+      "word_count": 300
+    }
+  ]
+}
