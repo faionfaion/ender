@@ -28,5 +28,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article covering Roblox Studio's biggest 2026 updates including 4D creation with the Cube Foundation Model, AI Assistant with MCP server integration, Playtest Agent automation, redesigned Studio UI, and Emissive Masks for glowing effects."
+  },
+  {
+    "date": "2026-04-12",
+    "slug": "obby-mania-2026-top-games-pro-tips-build-your-own",
+    "title_en": "Obby Mania 2026: Top Games, Pro Tips & How to Build Your Own",
+    "title_ua": "Obby-манія 2026: найкращі ігри, про-поради та як створити свій власний",
+    "topic": "obby-tips",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "Comprehensive 2026 obby guide covering the hottest games (Tower of Hell, Mega Fun Obby), pro gameplay tips like slowing down and skipping jumps on thin platforms, Tower of Hell secrets, and beginner advice for building your own obby in Roblox Studio."
   }
 ]
