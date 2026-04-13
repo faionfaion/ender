@@ -1,0 +1,70 @@
+{
+  "date": "2026-04-13",
+  "topics": [
+    {
+      "slug": "roblox-collab-bug-what-we-know",
+      "title_en": "Roblox Collaboration Hit by Mystery Bug — Here's What's Happening",
+      "title_ua": "У Roblox зламалась колаборація — що відбувається?",
+      "topic": "community-events",
+      "content_type": "news",
+      "character": "ender",
+      "word_count": [
+        200,
+        500
+      ],
+      "angle": "Breaking down the recent collaboration bug affecting Roblox experiences — what players should know, which games are impacted, and when a fix is expected"
+    },
+    {
+      "slug": "roblox-trading-101-get-rich-items-free",
+      "title_en": "Roblox Trading 101: How to Get Rich Items Without Spending Robux",
+      "title_ua": "Roblox Трейдинг 101: Як отримати круті речі без Robux",
+      "topic": "trading-tips",
+      "content_type": "guide",
+      "character": "ender",
+      "word_count": [
+        500,
+        1500
+      ],
+      "angle": "Step-by-step beginner trading guide covering value estimation, safe trades, scam red flags, and building your inventory from zero"
+    },
+    {
+      "slug": "murder-mystery-2-review-2026",
+      "title_en": "Murder Mystery 2 in 2026: Still Worth Playing? Honest Review",
+      "title_ua": "Murder Mystery 2 у 2026: Чи варто грати? Чесний огляд",
+      "topic": "game-reviews",
+      "content_type": "review",
+      "character": "ender",
+      "word_count": [
+        300,
+        800
+      ],
+      "angle": "Fresh look at Murder Mystery 2 — latest updates, current community vibe, knife values, and whether it still holds up against newer detective games"
+    },
+    {
+      "slug": "top-5-craziest-roblox-world-records",
+      "title_en": "Top 5 Craziest Roblox World Records That Actually Happened",
+      "title_ua": "Топ-5 найбожевільніших рекордів Roblox, що реально сталися",
+      "topic": "records-achievements",
+      "content_type": "top",
+      "character": "ender",
+      "word_count": [
+        400,
+        1000
+      ],
+      "angle": "Countdown of the most unbelievable Roblox records — longest playtime marathon, biggest player-built city, fastest obby speedrun, most visits in a day, and wildest achievement unlocks"
+    },
+    {
+      "slug": "dad-corner-tried-trading-lost-my-hat",
+      "title_en": "Dad's Corner: I Tried Trading and Lost My Only Hat",
+      "title_ua": "Тато-кут: Я спробував трейдинг і втратив свій єдиний капелюх",
+      "topic": "dad-corner",
+      "content_type": "lifehack",
+      "character": "dad",
+      "word_count": [
+        200,
+        400
+      ],
+      "angle": "FaionEnder's hilarious first attempt at Roblox trading — bad deals, instant regret, and the hard-won dad wisdom about always reading the fine print before clicking Accept"
+    }
+  ]
+}

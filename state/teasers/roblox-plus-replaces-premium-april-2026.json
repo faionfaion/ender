@@ -8,6 +8,8 @@
   "character": "ender",
   "article_type": "news",
   "image": "/images/roblox-plus-replaces-premium-april-2026.png",
-  "published_en": false,
-  "published_ua": false
+  "published_en": true,
+  "published_ua": true,
+  "msg_id_en": 49,
+  "msg_id_ua": 49
 }

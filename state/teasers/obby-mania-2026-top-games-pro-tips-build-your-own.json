@@ -8,6 +8,8 @@
   "character": "ender",
   "article_type": "news",
   "image": "/images/obby-mania-2026-top-games-pro-tips-build-your-own.png",
-  "published_en": false,
-  "published_ua": false
+  "published_en": true,
+  "published_ua": true,
+  "msg_id_en": 48,
+  "msg_id_ua": 48
 }
