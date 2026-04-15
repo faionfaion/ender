@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-15",
+  "topics": [
+    {
+      "slug": "roblox-studio-asset-import-presets-april-2026",
+      "title_en": "Roblox Studio Just Got Import Presets — Here's What They Do!",
+      "title_ua": "Roblox Studio отримала пресети імпорту — ось що вони роблять!",
+      "topic": "roblox-updates",
+      "content_type": "news",
+      "character": "ender",
+      "word_count": 350,
+      "summary": "Breaking down the new asset import presets and constraint type dropdown added to Roblox Studio — what changed, why it matters for creators, and how to use them right now."
+    },
+    {
+      "slug": "how-to-build-8-ball-pool-game-roblox",
+      "title_en": "How to Build an 8-Ball Pool Game in Roblox Studio!",
+      "title_ua": "Як створити гру в більярд у Roblox Studio!",
+      "topic": "building-guides",
+      "content_type": "guide",
+      "character": "ender",
+      "word_count": 1000,
+      "summary": "Step-by-step guide to building a working 8-ball pool game with physics, turn-based multiplayer, and a proper table setup. Fresh angle vs the 4D building article from Apr 12."
+    },
+    {
+      "slug": "roblox-emote-hacks-and-tricks-2026",
+      "title_en": "5 Roblox Emote Hacks Every Player Should Know!",
+      "title_ua": "5 лайфхаків з емоутами в Roblox, які повинен знати кожен!",
+      "topic": "trends-memes",
+      "content_type": "lifehack",
+      "character": "ender",
+      "word_count": 300,
+      "summary": "Cool emote tricks for players — emote canceling, combo dances, how devs can use the new Emote Remover to block unwanted emotes in their games, and the funniest emote trends right now."
+    },
+    {
+      "slug": "top-5-roblox-tycoon-games-2026",
+      "title_en": "Top 5 Roblox Tycoon Games You NEED to Play in 2026!",
+      "title_ua": "Топ-5 тайкунів у Roblox, в які ТРЕБА грати у 2026!",
+      "topic": "game-reviews",
+      "content_type": "top",
+      "character": "ender",
+      "word_count": 700,
+      "summary": "Ranking the best tycoon games on Roblox right now — from evergreen classics to fresh 2026 newcomers. Different genre than the MM2 review from Apr 13."
+    },
+    {
+      "slug": "dads-corner-voice-chat-disaster",
+      "title_en": "Dad's Corner: I Turned On Voice Chat and My Kid Won't Talk to Me Now",
+      "title_ua": "Татова рубрика: Я увімкнув голосовий чат і тепер дитина зі мною не розмовляє",
+      "topic": "dad-corner",
+      "content_type": "review",
+      "character": "dad",
+      "word_count": 450,
+      "summary": "FaionEnder tries Roblox voice chat for the first time, can't figure out the bubble over his head, embarrasses his kid in front of friends, and delivers his verdict on whether dads should ever use VC."
+    }
+  ]
+}
