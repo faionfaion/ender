@@ -158,5 +158,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "Roundup of three major Roblox updates in April 2026: the new Roblox Plus $4.99/mo subscription replacing Premium (launches April 30), a native PS5 app with 30% faster loads and haptic feedback, and new age-based Roblox Kids and Select accounts coming in June."
+  },
+  {
+    "date": "2026-04-15",
+    "slug": "roblox-studio-april-2026-building-tools-update",
+    "title_en": "Roblox Studio Just Dropped INSANE New Building Tools!",
+    "title_ua": "Roblox Studio щойно випустила ШАЛЕНІ нові інструменти для будівництва!",
+    "topic": "building-guides",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article covering Roblox Studio's major April 2026 updates including AI mesh generation via GenerateModelAsync, the Animation Graph Editor, Playtest Agent, StyleQuery for responsive UI, and built-in MCP Server support for external AI tools."
   }
 ]
