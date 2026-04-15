@@ -1,5 +1,5 @@
 ---
-title: "Квітень 2026 — це БОМБА! "Друзі" повернулись, а Roblox Plus вже на підході!"
+title: "Квітень 2026 — це БОМБА! \"Друзі\" повернулись, а Roblox Plus вже на підході!"
 slug: "april-2026-roblox-friends-back-roblox-plus"
 date: "2026-04-13"
 type: "news"
