@@ -8,6 +8,8 @@
   "character": "ender",
   "article_type": "news",
   "image": "/images/catalog-avatar-creator-emotes-tiktok-trend-2026.png",
-  "published_en": false,
-  "published_ua": false
+  "published_en": true,
+  "published_ua": true,
+  "msg_id_en": 54,
+  "msg_id_ua": 54
 }

@@ -1,0 +1,75 @@
+{
+  "date": "2026-04-16",
+  "topics": [
+    {
+      "character": "ender",
+      "topic": "obby-tips",
+      "content_type": "guide",
+      "angle": "Obby Pro Moves: 7 Advanced Techniques That Separate Noobs from Legends",
+      "description": "A skills-focused guide teaching specific obby movement techniques (wall-hop, edge-boost, diagonal jump, truss-slide, momentum-save, ladder-skip, precision-landing). Unlike the earlier Obby Mania roundup which focused on games and building, this one zooms into player mechanics with step-by-step practice drills and practice-map recommendations.",
+      "target_words": 1000,
+      "keywords": [
+        "roblox obby tips 2026",
+        "obby techniques",
+        "obby skill guide",
+        "roblox parkour moves"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "dev-tutorials",
+      "content_type": "lifehack",
+      "angle": "5 Roblox Studio Shortcuts Every Young Builder Should Memorize in 2026",
+      "description": "Fast, practical lifehack on keyboard shortcuts and Studio quality-of-life tricks (Ctrl+D duplicate-in-place, F to focus selection, Alt+drag for part alignment, Studio camera speed tweak, and the new 2026 Undo/Redo display-name fix workaround). Different from the AI-builds-for-you tutorial — this is hands-on shortcuts for kids learning Studio themselves.",
+      "target_words": 350,
+      "keywords": [
+        "roblox studio shortcuts",
+        "studio tips kids",
+        "roblox dev lifehack",
+        "studio productivity"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "records-achievements",
+      "content_type": "top",
+      "angle": "Top 7 Most Insane PLAYER Records in Roblox History (2026 Edition)",
+      "description": "A fun countdown of individual-player records rather than platform-wide stats: longest obby speedrun, highest RAP trader, biggest single tower build, most concurrent badges, longest MM2 survival streak, youngest verified dev, and the wildest group-membership record. Different from the April 13 article about Roblox platform records.",
+      "target_words": 800,
+      "keywords": [
+        "roblox player records 2026",
+        "roblox speedrun records",
+        "top roblox achievements",
+        "roblox world records"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "community-events",
+      "content_type": "news",
+      "angle": "RDC 2026 Dates Leaked + New Creator Challenge: What's Coming This Summer",
+      "description": "Fresh news piece about the upcoming Roblox Developer Conference 2026 rumored dates, the newly announced Summer Creator Challenge, and how kid creators can participate. Different from the Easter / friends-are-back April 13 article because it focuses on summer-looking events and creator participation.",
+      "target_words": 400,
+      "keywords": [
+        "RDC 2026",
+        "roblox developer conference",
+        "roblox summer events 2026",
+        "creator challenge"
+      ]
+    },
+    {
+      "character": "dad",
+      "topic": "dad-corner",
+      "content_type": "review",
+      "angle": "Dad's Corner: I Tried to Beat My Daughter's Obby and My Dignity Did Not Survive",
+      "description": "FaionEnder attempts his daughter's favorite obby course, reviews the experience as a middle-aged dad: rage-quits on stage 3, celebrates checkpoint like it's the World Cup, gets roasted by EnderFaion. Wholesome, funny, dad-joke-heavy. Different from previous dad articles (FPS, trading, voice chat) — this one is obby-focused and family-bonding flavored.",
+      "target_words": 500,
+      "keywords": [
+        "roblox dad obby",
+        "dad plays roblox",
+        "roblox family",
+        "obby challenge dad"
+      ]
+    }
+  ]
+}
