@@ -218,5 +218,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article covering the 2026 Roblox Studio redesign and the February 2026 AI Assistant upgrades (Code Assist, Playtest Automation, Developer Intelligence), aimed at kids 8–14 who want to start building their own Roblox games."
+  },
+  {
+    "date": "2026-04-16",
+    "slug": "roblox-broke-gaming-records-47-million-players",
+    "title_en": "Roblox Smashed Gaming History: 47 Million Players at ONCE!",
+    "title_ua": "Roblox переписав історію гейму: 47 мільйонів гравців ОДНОЧАСНО!",
+    "topic": "records-achievements",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article covering Roblox's historic 47M concurrent player record (Aug 2025), Grow a Garden and Steal a Brainrot achievements, Bruno Mars' record concert, and the Guinness World Records partnership letting kids set official records on Roblox."
   }
 ]
