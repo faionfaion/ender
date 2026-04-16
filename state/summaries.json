@@ -208,5 +208,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News-style tips article where EnderFaion teaches kids the mini-jump technique, Shift Lock settings, camera tricks, and recommends the best Roblox obbies to play in April 2026."
+  },
+  {
+    "date": "2026-04-16",
+    "slug": "roblox-studio-2026-ai-helper-code-assist",
+    "title_en": "Roblox Studio 2026: AI Helper Writes Your Game Code Now!",
+    "title_ua": "Roblox Studio 2026: AI-помічник тепер сам пише код для твоєї гри!",
+    "topic": "dev-tutorials",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article covering the 2026 Roblox Studio redesign and the February 2026 AI Assistant upgrades (Code Assist, Playtest Automation, Developer Intelligence), aimed at kids 8–14 who want to start building their own Roblox games."
   }
 ]
