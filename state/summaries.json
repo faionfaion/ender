@@ -268,5 +268,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article covering Roblox 4D Generation open beta (Feb 4, 2026) powered by the Cube Foundation Model, which lets creators generate interactive objects with physics from text prompts. Includes stats (160K+ objects, 64% play-time boost) and mentions new AI Assistant Playtest Subagent."
+  },
+  {
+    "date": "2026-04-17",
+    "slug": "roblox-trading-tips-april-2026",
+    "title_en": "Roblox Trading in 2026: How to Trade Smart and Spot Scams",
+    "title_ua": "Трейдинг у Roblox 2026: як міняти розумно та не попастися на скам",
+    "topic": "trading-tips",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News-style guide for kids on safe Roblox trading in April 2026, covering the official trade system, RAP vs Community Value, March 2026 Sale items, upcoming Roblox Plus launch, and the top scams to avoid."
   }
 ]
