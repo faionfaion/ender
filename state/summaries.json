@@ -258,5 +258,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article announcing Roblox Plus subscription launching April 30, 2026, with perks like 20% discounts and free Robux transfers, plus the new PS5 native app and upcoming Roblox Kids/Select accounts for younger players."
+  },
+  {
+    "date": "2026-04-17",
+    "slug": "roblox-4d-generation-open-beta-cube-ai",
+    "title_en": "Roblox 4D Generation Is HERE — Type Words, Get Flying Dragons!",
+    "title_ua": "Roblox 4D Generation ВЖЕ ТУТ — пишеш слова, отримуєш драконів, які літають!",
+    "topic": "building-guides",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article covering Roblox 4D Generation open beta (Feb 4, 2026) powered by the Cube Foundation Model, which lets creators generate interactive objects with physics from text prompts. Includes stats (160K+ objects, 64% play-time boost) and mentions new AI Assistant Playtest Subagent."
   }
 ]
