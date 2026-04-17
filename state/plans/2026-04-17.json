@@ -1,0 +1,70 @@
+{
+  "date": "2026-04-17",
+  "topics": [
+    {
+      "character": "ender",
+      "topic": "roblox-updates",
+      "content_type": "news",
+      "title_hint": "Voice Chat Bug Fix Incoming? What Roblox Quietly Patched This Week",
+      "angle": "Quick news roundup of small but annoying Roblox bugs that just got fixed (voice chat re-grant glitch, PBR material loading, ContextActionService input issue) — explained in kid-friendly language so players know what's actually changing in their game today.",
+      "keywords": [
+        "roblox bug fixes april 2026",
+        "voice chat fix",
+        "roblox patch notes",
+        "PBR materials"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "building-guides",
+      "content_type": "guide",
+      "title_hint": "Build Your First Treehouse in Roblox Studio: Step-by-Step for Beginners",
+      "angle": "A gentle, hand-holding beginner build tutorial focused on a small project (treehouse) — uses basic parts, anchoring, and one simple script for a working ladder. Different from recent posts about new Studio tools; this is pure 'first build' onboarding for kids.",
+      "keywords": [
+        "roblox studio beginner",
+        "treehouse build tutorial",
+        "first roblox game",
+        "studio basics"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "trading-tips",
+      "content_type": "lifehack",
+      "title_hint": "5 Robux-Saving Hacks Every Roblox Player Should Know in 2026",
+      "angle": "Short, punchy lifehack list — NOT about trading scams (already covered) but about smart spending: Premium payouts, Microsoft Rewards Robux, group payout tricks, sale timing, and avoiding limited-edition FOMO buys.",
+      "keywords": [
+        "save robux 2026",
+        "free robux legit",
+        "premium payout",
+        "microsoft rewards robux"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "game-reviews",
+      "content_type": "top",
+      "title_hint": "Top 7 Hidden Gem Roblox Games You've Probably Never Played",
+      "angle": "Curated list of underrated, low-visit but high-quality Roblox games worth trying this weekend — focus on creative, cozy, and puzzle genres outside the obvious big names. Each entry has a one-line 'why it's awesome' and a vibe rating.",
+      "keywords": [
+        "hidden roblox games 2026",
+        "underrated roblox",
+        "best small roblox games",
+        "cozy roblox games"
+      ]
+    },
+    {
+      "character": "dad",
+      "topic": "dad-corner",
+      "content_type": "review",
+      "title_hint": "Dad's Corner: I Reviewed My Daughter's Roblox Friends List and Got Roasted",
+      "angle": "Funny dad story: tried to play 'parent inspector' on Ender's friends list to feel responsible, ended up getting schooled on Roblox slang ('skibidi', 'rizz', 'mewing'). Wholesome dad-humor with a tiny safety lesson tucked inside about real online friend etiquette.",
+      "keywords": [
+        "roblox parent guide",
+        "roblox slang",
+        "dad gaming",
+        "roblox friends safety"
+      ]
+    }
+  ]
+}

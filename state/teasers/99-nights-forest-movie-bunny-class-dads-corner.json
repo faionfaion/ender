@@ -8,6 +8,8 @@
   "character": "dad",
   "article_type": "news",
   "image": "/images/99-nights-forest-movie-bunny-class-dads-corner.png",
-  "published_en": false,
-  "published_ua": false
+  "published_en": true,
+  "published_ua": true,
+  "msg_id_en": 55,
+  "msg_id_ua": 55
 }

@@ -8,6 +8,8 @@
   "character": "ender",
   "article_type": "news",
   "image": "/images/grow-a-garden-easter-part-2-candy-blossom-2026.png",
-  "published_en": false,
-  "published_ua": false
+  "published_en": true,
+  "published_ua": true,
+  "msg_id_en": 56,
+  "msg_id_ua": 56
 }
