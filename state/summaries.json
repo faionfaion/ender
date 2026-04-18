@@ -318,5 +318,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article covering Roblox's April 2026 announcement that Studio is going agentic with Planning Mode, Procedural Model Generation, and a Playtesting Agent — framed for kid creators as an exciting way to build games faster using AI."
+  },
+  {
+    "date": "2026-04-18",
+    "slug": "obby-pro-secrets-2026-roblox-tips",
+    "title_en": "Obby Pro Secrets 2026: The Tips Every Roblox Fan Needs RN",
+    "title_ua": "Секрети обі-про 2026: поради, які кожен фанат Roblox має знати ПРЯМО ЗАРАЗ",
+    "topic": "obby-tips",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article rounding up 2026's trending Roblox obby games (Tower of Hell, Mega Easy Obby, Obby Tower) and essential pro tips like shift lock off, edge jumping, and hidden checkpoints, plus the surge in free UGC reward obbies."
   }
 ]
