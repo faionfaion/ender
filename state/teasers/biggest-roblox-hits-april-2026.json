@@ -8,6 +8,8 @@
   "character": "ender",
   "article_type": "news",
   "image": "/images/biggest-roblox-hits-april-2026.png",
-  "published_en": false,
-  "published_ua": false
+  "published_en": true,
+  "published_ua": true,
+  "msg_id_en": 60,
+  "msg_id_ua": 60
 }

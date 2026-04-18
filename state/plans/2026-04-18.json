@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-18",
+  "topics": [
+    {
+      "character": "ender",
+      "topic": "trends-memes",
+      "content_type": "news",
+      "title_hint": "Weekend Trend Alert: The New Emote Everyone's Copying Right Now",
+      "angle": "Fresh Saturday trend report on the latest viral Roblox emote/dance that's blowing up on TikTok and inside games — what it's called, where it came from, and how to get it. Different from the 4/15 Catalog Avatar Creator piece: focus on a NEW single trend of the weekend, not the platform.",
+      "target_words": 350,
+      "key_points": [
+        "What the trend is and when it went viral",
+        "Which games/creators started it",
+        "How to unlock or perform the emote",
+        "Funniest community reactions"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "dev-tutorials",
+      "content_type": "guide",
+      "title_hint": "How to Turn Any Image Into a Roblox Decal ID (Easy 2026 Guide)",
+      "angle": "Practical step-by-step tutorial on getting a Decal ID from an Image ID — inspired by the fresh RSS headline. Very different from the previous AI-code-writing dev tutorials (4/12, 4/16): this is a hands-on asset workflow guide kids can actually follow to decorate their own games.",
+      "target_words": 900,
+      "key_points": [
+        "What Decal IDs vs Image IDs actually are",
+        "Upload workflow in Creator Dashboard",
+        "How to grab the Decal ID once moderation approves",
+        "Using the ID in Studio (Decal, Texture, SurfaceGui)",
+        "Common moderation pitfalls to avoid",
+        "Bonus: batch uploading and organizing your asset library"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "obby-tips",
+      "content_type": "lifehack",
+      "title_hint": "The Camera Angle Trick That Makes Every Obby 10x Easier",
+      "angle": "One-minute lifehack on using camera tilt + first-person toggle to judge tricky jumps. Different from the 4/16 'tiny jump trick' — that was about input timing, this is about visual/camera control.",
+      "target_words": 320,
+      "key_points": [
+        "Why default third-person lies to you on narrow jumps",
+        "How to tilt/zoom the camera for depth perception",
+        "When to switch to first-person mid-obby",
+        "Quick practice drill to build the habit"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "game-reviews",
+      "content_type": "top",
+      "title_hint": "Top 5 Underrated Roblox Gems You're Totally Sleeping On in April 2026",
+      "angle": "Spotlight on smaller/rising experiences with cool gameplay that haven't hit mainstream yet. Deliberately different from 4/17's '2026's Biggest Hits' (which covered the giants) — this list celebrates hidden gems so the audience learns something new.",
+      "target_words": 750,
+      "key_points": [
+        "Criteria: fewer than X million visits but rising fast",
+        "Pick 1: cozy/creative game",
+        "Pick 2: unique PvE twist",
+        "Pick 3: clever puzzle/co-op",
+        "Pick 4: stylish simulator doing something fresh",
+        "Pick 5: indie RP gem",
+        "How to spot the next hidden gem yourself"
+      ]
+    },
+    {
+      "character": "dad",
+      "topic": "dad-corner",
+      "content_type": "review",
+      "title_hint": "Dad's Corner: I Finally Played the 99 Nights Update — Help Me",
+      "angle": "Payoff from yesterday's teaser (4/17) where dad hyped the Saturday update. Today he actually plays it and reviews the new content with classic dad confusion, dad jokes, and genuine excitement. Reviews the update, not the whole game — fresh angle.",
+      "target_words": 550,
+      "key_points": [
+        "First impressions opening the update",
+        "What's actually new (features/items/map)",
+        "One thing that scared him more than it should",
+        "Dad-joke moment",
+        "Honest rating and whether he'll keep playing"
+      ]
+    }
+  ]
+}
