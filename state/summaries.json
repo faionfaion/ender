@@ -308,5 +308,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article explaining the viral 2026 green bean avatar trend on Roblox — how Jandal's TikTok challenge in Grow a Garden spread to Brookhaven and Blox Fruits, plus a quick how-to and safety tip about fake Robux scams."
+  },
+  {
+    "date": "2026-04-18",
+    "slug": "roblox-studio-agentic-ai-planning-mode-2026",
+    "title_en": "Roblox Studio Just Got an AI Brain — Build Games by Just Talking!",
+    "title_ua": "У Roblox Studio тепер є AI-мозок — створюй ігри просто розмовляючи!",
+    "topic": "dev-tutorials",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article covering Roblox's April 2026 announcement that Studio is going agentic with Planning Mode, Procedural Model Generation, and a Playtesting Agent — framed for kid creators as an exciting way to build games faster using AI."
   }
 ]
