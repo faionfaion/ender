@@ -1,0 +1,65 @@
+{
+  "date": "2026-04-19",
+  "topics": [
+    {
+      "slug": "roblox-billion-visits-hall-of-fame-2026",
+      "title_en": "7 Roblox Games That Crossed 1 BILLION Visits — The Hall of Fame!",
+      "title_ua": "7 ігор Roblox, які перетнули 1 МІЛЬЯРД відвідувань — Зал слави!",
+      "character": "ender",
+      "content_type": "top",
+      "topic": "records-achievements",
+      "angle": "Hall-of-fame style countdown of evergreen billion-visit titles — focuses on historical legacy, not the recent 47M concurrent record or MM2's 24.9B milestone already covered.",
+      "target_words": 750,
+      "kid_friendly_hook": "Which legendary game made YOUR first billion-visit memory?"
+    },
+    {
+      "slug": "roblox-trading-first-five-trades-beginner-guide",
+      "title_en": "Roblox Trading 101: Your First 5 Trades, Explained Step by Step",
+      "title_ua": "Трейди в Roblox 101: твої перші 5 обмінів крок за кроком",
+      "character": "ender",
+      "content_type": "guide",
+      "topic": "trading-tips",
+      "angle": "Pure beginner walkthrough — how to open the trade window, what 'value' means, fair-trade checklist. Different from recent scam-spotting and Roblox Plus trading posts.",
+      "target_words": 1100,
+      "kid_friendly_hook": "Walks a total newbie from zero to confident first trade."
+    },
+    {
+      "slug": "secret-roblox-settings-every-player-needs-2026",
+      "title_en": "5 Secret Roblox Settings That Make Your Game Way Smoother",
+      "title_ua": "5 секретних налаштувань Roblox, які роблять гру набагато плавнішою",
+      "character": "ender",
+      "content_type": "lifehack",
+      "topic": "roblox-updates",
+      "angle": "Under-the-hood settings tweaks (graphics modes, camera sensitivity, reduced motion, fullscreen toggle, performance stats) — NOT the Plus sub / PS5 / kid-accounts news already covered.",
+      "target_words": 340,
+      "kid_friendly_hook": "Boost FPS and comfort in under 60 seconds."
+    },
+    {
+      "slug": "roblox-spring-creator-challenge-april-2026",
+      "title_en": "Roblox's Spring Creator Challenge Is LIVE — Build Stuff, Win Robux!",
+      "title_ua": "Весняний челендж творців Roblox стартував — будуй і вигравай Robux!",
+      "character": "ender",
+      "content_type": "news",
+      "topic": "community-events",
+      "angle": "Fresh April creator-challenge announcement with entry rules and prize tiers — distinct from the Easter Part 2 / Grow a Garden / April-is-HUGE recaps already published.",
+      "target_words": 420,
+      "kid_friendly_hook": "Even first-time builders can enter the beginner bracket."
+    },
+    {
+      "slug": "dads-corner-tower-of-hell-rage-quit",
+      "title_en": "Dad's Corner: I Tried Tower of Hell and Rage-Quit Twice (Honest Review)",
+      "title_ua": "Татова рубрика: я спробував Tower of Hell і двічі кинув зі злості (чесний огляд)",
+      "character": "dad",
+      "content_type": "review",
+      "topic": "dad-corner",
+      "angle": "FaionEnder's first honest obby attempt — dad POV review of Tower of Hell with self-deprecating humor. Different from his previous trading, voice-chat, 99 Nights movie, and Saturday-update posts.",
+      "target_words": 600,
+      "kid_friendly_hook": "When your kid beats the tower in 4 minutes and you're still stuck on stage 3."
+    }
+  ],
+  "notes": {
+    "distribution": "4 ender (top, guide, lifehack, news) + 1 dad (review) = 5 articles",
+    "type_mix": "top / guide / lifehack / news / review — all five content types represented",
+    "avoids": "No obby-tips, dev-tutorials, trends-memes, game-reviews, or building-guides today — all covered within last 72h. trading-tips and records-achievements revisited only with distinctly new angles (beginner walkthrough; billion-visit legacy list)."
+  }
+}
