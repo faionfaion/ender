@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-20",
+  "topics": [
+    {
+      "character": "ender",
+      "topic": "building-guides",
+      "content_type": "guide",
+      "angle": "Step-by-step tutorial on using Viewport Frames in Roblox Studio to create pro-looking menu previews and item rotations — inspired by dev forum questions this week, but rewritten super simple for young builders with screenshots and copy-paste snippets.",
+      "working_title": "Viewport Frame Magic: Make Pro-Looking Menus in Roblox Studio"
+    },
+    {
+      "character": "ender",
+      "topic": "obby-tips",
+      "content_type": "lifehack",
+      "angle": "One specific advanced movement technique — the 'Ledge Grab + Camera Swing' combo — that pulls you back onto platforms when you overshoot. Completely different from the tiny-jump trick and general pro tips we covered earlier this week; focused on recovery, not takeoff.",
+      "working_title": "The Ledge Grab Trick That Saves You in Every Obby"
+    },
+    {
+      "character": "ender",
+      "topic": "game-reviews",
+      "content_type": "review",
+      "angle": "Deep-dive solo review of Blade Ball — a game we haven't covered yet. Break down why it blew up again in April 2026, the new deflect timing system, ability meta, and whether it's fun for beginners. Not a roundup or trend piece, a proper single-game review.",
+      "working_title": "Blade Ball in April 2026: Is It Still THE Game to Play?"
+    },
+    {
+      "character": "ender",
+      "topic": "trends-memes",
+      "content_type": "top",
+      "angle": "Weekly roundup of the top 5 Roblox trends blowing up on TikTok and YouTube Shorts this week — NOT the green bean avatar or Catalog emotes (already covered). Fresh picks: duo dance animations, bedroom-build challenges, silly walk emotes, mini-lore videos, avatar-swap pranks.",
+      "working_title": "Top 5 Roblox Trends Everyone Is Doing This Week"
+    },
+    {
+      "character": "dad",
+      "topic": "dad-corner",
+      "content_type": "news",
+      "angle": "Dad tries Blade Ball after hearing his daughter rave about it, gets humiliated by a 7-year-old with a katana, and discovers the dad-friendly Deflect ability. Funny, self-deprecating, ties to today's Blade Ball review for cross-article flow.",
+      "working_title": "Dad's Corner: I Tried Blade Ball and a 7-Year-Old Ended Me"
+    }
+  ]
+}

@@ -8,6 +8,8 @@
   "character": "dad",
   "article_type": "news",
   "image": "/images/dads-corner-99-nights-family-coop-update.png",
-  "published_en": false,
-  "published_ua": false
+  "published_en": true,
+  "published_ua": true,
+  "msg_id_en": 70,
+  "msg_id_ua": 70
 }

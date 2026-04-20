@@ -398,5 +398,15 @@
     "article_type": "news",
     "character": "dad",
     "summary_en": "Dad's Corner news covering Roblox's new Kids and Select accounts, Trusted Friends rollout, and the upcoming April 11 99 Nights in the Forest update — all framed as a win for dad-and-kid co-op play."
+  },
+  {
+    "date": "2026-04-20",
+    "slug": "roblox-studio-agentic-ai-one-prompt-games",
+    "title_en": "Roblox Studio Just Went Agentic — Build a Game With ONE Prompt!",
+    "title_ua": "Roblox Studio став агентним — створюй гру ОДНИМ промптом!",
+    "topic": "building-guides",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article about Roblox's April 16, 2026 announcement that Roblox Studio is going agentic, covering Planning Mode, mesh generation, procedural models, and the 44% adoption stat among top creators."
   }
 ]
