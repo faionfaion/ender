@@ -10,7 +10,7 @@ from pathlib import Path
 
 from pipeline.config import CHARACTERS, CONTENT_DIR, ROOT, SITE_BASE_URL, STATE_DIR
 from pipeline.context import PipelineContext
-from pipeline.image_gen import generate_image
+from pipeline.stages.s_image_orchestrator import generate_with_qa
 
 logger = logging.getLogger(__name__)
 
@@ -20,10 +20,10 @@ def run(ctx: PipelineContext, dry_run: bool = False) -> None:
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     char = CHARACTERS.get(ctx.character, CHARACTERS["ender"])
 
-    # Generate image
+    # Generate image (via orchestrator: editor -> gen -> QA -> retry)
     if not dry_run:
-        image_path = generate_image(
-            prompt=ctx.image_prompt,
+        image_path = generate_with_qa(
+            raw_prompt=ctx.image_prompt,
             slug=ctx.slug,
             character=ctx.character,
         )
