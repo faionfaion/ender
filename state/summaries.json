@@ -458,5 +458,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article covering Roblox's April 16, 2026 announcement that Studio Assistant went agentic — adding Planning Mode, a Playtest Agent, and mesh/scene generation, with related updates rolling out April 30, 2026."
+  },
+  {
+    "date": "2026-04-21",
+    "slug": "roblox-ps5-launch-april-2026",
+    "title_en": "Roblox Just Dropped on PS5 — And It's WAY Faster! 🎮",
+    "title_ua": "Roblox щойно вийшов на PS5 — і він НАБАГАТО швидший! 🎮",
+    "topic": "game-reviews",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article announcing Roblox's native PS5 app launch (April 14, 2026) with 30% faster loads, plus mentions of upcoming Roblox Kids/Select accounts and current top games."
   }
 ]
