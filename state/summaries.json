@@ -448,5 +448,15 @@
     "article_type": "news",
     "character": "dad",
     "summary_en": "Dad's Corner news piece from FaionEnder covering the 20th Century Studios movie deal for 99 Nights in the Forest, current player stats, recent update cadence, and dad-style survival tips for kids."
+  },
+  {
+    "date": "2026-04-21",
+    "slug": "roblox-studio-agentic-ai-plans-builds-tests",
+    "title_en": "Roblox Studio Just Got an AI That Builds AND Plays Your Game!",
+    "title_ua": "У Roblox Studio з'явився ШІ, який САМ будує та грає у твою гру!",
+    "topic": "dev-tutorials",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article covering Roblox's April 16, 2026 announcement that Studio Assistant went agentic — adding Planning Mode, a Playtest Agent, and mesh/scene generation, with related updates rolling out April 30, 2026."
   }
 ]

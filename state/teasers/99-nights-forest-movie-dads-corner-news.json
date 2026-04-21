@@ -8,6 +8,8 @@
   "character": "dad",
   "article_type": "news",
   "image": "/images/99-nights-forest-movie-dads-corner-news.png",
-  "published_en": false,
-  "published_ua": false
+  "published_en": true,
+  "published_ua": true,
+  "msg_id_en": 75,
+  "msg_id_ua": 75
 }

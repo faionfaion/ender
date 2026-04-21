@@ -8,6 +8,8 @@
   "character": "ender",
   "article_type": "news",
   "image": "/images/biggest-roblox-trends-2026.png",
-  "published_en": false,
-  "published_ua": false
+  "published_en": true,
+  "published_ua": true,
+  "msg_id_en": 76,
+  "msg_id_ua": 76
 }

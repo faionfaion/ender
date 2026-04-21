@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-21",
+  "topics": [
+    {
+      "topic": "dev-tutorials",
+      "content_type": "guide",
+      "character": "ender",
+      "angle": "Absolute beginner scripting walkthrough — first script that makes a Part glow and change color on touch, with Lua explained line by line (inspired by RSS Beginner Scripting Part 2, but written for kids, not coders).",
+      "working_title": "Your First Roblox Script: Make a Glowing Color-Change Part in 5 Minutes!"
+    },
+    {
+      "topic": "game-reviews",
+      "content_type": "review",
+      "character": "ender",
+      "angle": "Fresh 2026 review of Pet Simulator 99 — not Grow a Garden, not Tower of Hell — what's new, what's worth your Robux, what to skip. Honest kid-gamer take.",
+      "working_title": "Pet Simulator 99 in 2026: Still Epic or Time to Move On?"
+    },
+    {
+      "topic": "community-events",
+      "content_type": "news",
+      "character": "ender",
+      "angle": "Weekend-focused roundup of 3 specific upcoming community events (in-game meetups, devstream, creator contest deadline) — actionable 'what to log in for' angle, different from the April overview already published.",
+      "working_title": "This Weekend on Roblox: 3 Live Events You CAN'T Miss!"
+    },
+    {
+      "topic": "records-achievements",
+      "content_type": "top",
+      "character": "ender",
+      "angle": "Top 5 player-made records broken in April 2026 (speedruns, longest obby chains, biggest trade values) — focused on individual players, not platform-wide CCU numbers already covered.",
+      "working_title": "Top 5 INSANE Player Records Broken on Roblox This Month!"
+    },
+    {
+      "topic": "dad-corner",
+      "content_type": "lifehack",
+      "character": "dad",
+      "angle": "Dad's dorky lifehack for not getting lost in giant Roblox maps — using screenshots as a 'map' and dropping breadcrumb parts. Self-deprecating humor about being a boomer with a good idea.",
+      "working_title": "Dad's Corner: My Nerdy Map Trick So I Stop Getting Lost in 99 Nights"
+    }
+  ]
+}
