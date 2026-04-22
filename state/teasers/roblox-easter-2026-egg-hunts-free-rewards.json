@@ -8,6 +8,8 @@
   "character": "ender",
   "article_type": "news",
   "image": "/images/roblox-easter-2026-egg-hunts-free-rewards.png",
-  "published_en": false,
-  "published_ua": false
+  "published_en": true,
+  "published_ua": true,
+  "msg_id_en": 82,
+  "msg_id_ua": 82
 }

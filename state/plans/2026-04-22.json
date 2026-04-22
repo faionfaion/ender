@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-22",
+  "topics": [
+    {
+      "slug": "roblox-studio-first-map-beginners",
+      "title": "Roblox Studio for Total Beginners: Build Your First Map in 30 Minutes",
+      "character": "ender",
+      "topic": "building-guides",
+      "content_type": "guide",
+      "angle": "Absolute-beginner step-by-step: open Studio, drop a baseplate, add parts, color them, publish. Focus on first-map confidence, not AI tools (contrast with recent agentic/AI Studio coverage).",
+      "target_words": 1000
+    },
+    {
+      "slug": "roblox-trade-fair-check-lifehack",
+      "title": "3 Super-Fast Checks to Know If a Roblox Trade Is Actually Fair",
+      "character": "ender",
+      "topic": "trading-tips",
+      "content_type": "lifehack",
+      "angle": "Tiny actionable checklist (Rolimons value check, demand vs. rare tag, 24-hour pause rule). Different from earlier broad trading guides — pure quick-reference lifehack.",
+      "target_words": 350
+    },
+    {
+      "slug": "top-viral-roblox-dances-april-2026",
+      "title": "Top 6 Viral Roblox Dances Everyone Is Copying Right Now (April 2026)",
+      "character": "ender",
+      "topic": "trends-memes",
+      "content_type": "top",
+      "angle": "Specific trend list — emotes and dance animations blowing up on TikTok/Shorts, with where to get each one. Narrower and more actionable than the earlier 'biggest trends' roundup.",
+      "target_words": 700
+    },
+    {
+      "slug": "roblox-anti-backdoor-safety-kids",
+      "title": "Roblox's New Anti-Backdoor Shield: What Young Creators Need to Know",
+      "character": "ender",
+      "topic": "roblox-updates",
+      "content_type": "news",
+      "angle": "Kid-friendly breakdown of Roblox's enhanced script security push (from dev forum chatter). Explains why creators are seeing new warnings and how to keep your game safe — a security angle, not the Plus/PS5 angle already covered.",
+      "target_words": 400
+    },
+    {
+      "slug": "dad-tries-brookhaven-first-time",
+      "title": "Dad's Corner: I Tried Brookhaven for the First Time (And I Have Questions)",
+      "character": "dad",
+      "topic": "dad-corner",
+      "content_type": "review",
+      "angle": "Dad steps OUT of 99 Nights in the Forest for once — first impressions of Brookhaven RP through dad eyes. Fresh game, dad-joke review tone, breaks the 99 Nights streak from recent days.",
+      "target_words": 600
+    }
+  ]
+}

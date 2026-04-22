@@ -498,5 +498,15 @@
     "article_type": "news",
     "character": "dad",
     "summary_en": "Dad's Corner news piece by FaionEnder covering the April 11-18 2026 Offerings Update in 99 Nights in the Forest, including the new Sketchy Salesman NPC, 9-offering flame pool, and Roblox popularity stats — told with warm dad-joke tone."
+  },
+  {
+    "date": "2026-04-22",
+    "slug": "roblox-studio-agentic-assistant-april-2026",
+    "title_en": "Roblox Studio Just Got a Robot Helper — Build Games With Words!",
+    "title_ua": "У Roblox Studio з'явився робот-помічник — тепер ігри будують словами!",
+    "topic": "building-guides",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article covering Roblox Studio's April 2026 agentic Assistant update, including Mesh Generation, Procedural Models, 4D Generation, Planning Mode, and automated playtesting features for kid builders."
   }
 ]
