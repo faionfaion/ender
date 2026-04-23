@@ -578,5 +578,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article for kids about Roblox Studio's April 2026 agentic AI update — planning mode, mesh generation, procedural models, and the automated Playtesting Agent that finds bugs for young creators."
+  },
+  {
+    "date": "2026-04-23",
+    "slug": "roblox-broke-biggest-gaming-record-ever",
+    "title_en": "Roblox Just Broke The Biggest Record In Gaming History — And YOU Did It!",
+    "title_ua": "Roblox щойно побив найбільший рекорд в історії ігор — і це зробили МИ з вами!",
+    "topic": "records-achievements",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article celebrating Roblox's 47.29M concurrent player world record, Grow a Garden's insane growth, and 18-year-old Quinten Delaere's Guinness World Record speedrun win after exposing cheaters."
   }
 ]
