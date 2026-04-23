@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-23",
+  "topics": [
+    {
+      "slot": 1,
+      "character": "ender",
+      "content_type": "news",
+      "topic": "community-events",
+      "title_hint": "Roblox Weekend Events Lineup (Apr 23–25): What's Live RN",
+      "angle": "Forward-looking weekly preview of upcoming live events, creator streams, and in-game festivals this weekend. Different from 4/21 Easter recap — focuses on NEW events starting this Thursday through Sunday.",
+      "word_count_target": 400
+    },
+    {
+      "slot": 2,
+      "character": "ender",
+      "content_type": "review",
+      "topic": "game-reviews",
+      "title_hint": "This New Ghibli-Style Roblox Game Is Pure Magic",
+      "angle": "Review of the trending anime/Ghibli-style Roblox game (from RSS). Focuses on visuals, chill vibes, exploration — totally different from Grow a Garden / PS5 reviews already covered.",
+      "word_count_target": 650
+    },
+    {
+      "slot": 3,
+      "character": "ender",
+      "content_type": "guide",
+      "topic": "dev-tutorials",
+      "title_hint": "Make Your Roblox Character DOUBLE JUMP: Animation Editor Tips 2026",
+      "angle": "Hands-on guide for young builders — how to rig custom characters, fix common Animation Editor glitches, and add cool moves like double jump. Directly inspired by RSS devforum posts. No AI Studio talk — pure animation craft.",
+      "word_count_target": 1100
+    },
+    {
+      "slot": 4,
+      "character": "ender",
+      "content_type": "top",
+      "topic": "records-achievements",
+      "title_hint": "Top 5 Wildest Roblox Records Broken in April 2026",
+      "angle": "Weekly roundup/ranking of record-breaking moments: concurrent players, speedruns, biggest obby completions, trade values. Builds on 4/19 and 4/21 but as a curated TOP-5 listicle format (not news), covering the whole month's highlights.",
+      "word_count_target": 800
+    },
+    {
+      "slot": 5,
+      "character": "dad",
+      "content_type": "lifehack",
+      "topic": "dad-corner",
+      "title_hint": "Dad's Corner: 3 Survival Hacks That Saved Me in 99 Nights",
+      "angle": "Dad shares practical survival lifehacks from his 99 Nights in the Forest playthrough — funny, fatherly tips like crafting priorities, night shelter spots, and teaming up with kids. Shifts from 'update hype' (4/17, 4/19, 4/21, 4/22) to actionable dad-gamer wisdom.",
+      "word_count_target": 350
+    }
+  ]
+}
