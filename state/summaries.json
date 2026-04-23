@@ -568,5 +568,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article about Grow a Garden's Easter Event Part 3 (live April 4-26, 2026) covering the new Easter Garden Plot, Choc Coins, 15-minute Egg Hunt, Springtide Eggs, and Season 4 Pass — hyping the 10M+ concurrent player milestone."
+  },
+  {
+    "date": "2026-04-23",
+    "slug": "roblox-studio-agentic-ai-tools-2026",
+    "title_en": "Roblox Studio Just Got SUPER Smart — Build Games by Just Talking!",
+    "title_ua": "Roblox Studio став СУПЕР розумним — тепер ігри можна будувати просто голосом!",
+    "topic": "dev-tutorials",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article for kids about Roblox Studio's April 2026 agentic AI update — planning mode, mesh generation, procedural models, and the automated Playtesting Agent that finds bugs for young creators."
   }
 ]
