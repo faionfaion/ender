@@ -1,0 +1,65 @@
+{
+  "date": "2026-04-25",
+  "topics": [
+    {
+      "character": "ender",
+      "topic": "building-guides",
+      "content_type": "guide",
+      "title": "Make Your Roblox Avatar MOVE Like a Pro: Animation Priority Explained!",
+      "angle": "Beginner-friendly walkthrough of Roblox Studio animation priorities (Core/Idle/Movement/Action) — why your custom dance keeps getting overridden and how to fix it in 4 clicks. Inspired by the new Animation Priority Guide trending on DevForum. Includes a kid-friendly analogy (loud voices vs whispers) and one screenshot-by-screenshot fix.",
+      "word_target": 900,
+      "language_versions": [
+        "en",
+        "ua"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "obby-tips",
+      "content_type": "lifehack",
+      "title": "5 Secret Wall-Jump Tricks Every Roblox Obby Kid Should Steal",
+      "angle": "Quick-hit lifehack focused ONLY on advanced wall-jump mechanics (corner boosts, double-tap rhythm, camera tilt trick). Distinct from earlier Tower of Hell guide — zero overlap, pure micro-skills. Fast read, high re-readability.",
+      "word_target": 350,
+      "language_versions": [
+        "en",
+        "ua"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "trading-tips",
+      "content_type": "top",
+      "title": "Top 10 Roblox Items Worth Trading This Spring 2026 (Limiteds Edition)",
+      "angle": "Ranked list of currently-rising limiteds and seasonal items kids should hold or trade up. Different from previous 'how-to-trade-safe' posts — this one is concrete picks with current value trends, RAP movement, and a 'dad-approved' note on each.",
+      "word_target": 800,
+      "language_versions": [
+        "en",
+        "ua"
+      ]
+    },
+    {
+      "character": "ender",
+      "topic": "trends-memes",
+      "content_type": "news",
+      "title": "Roblox's New Voice Filter Lets You Sound Like Your Avatar — And the Internet Is Losing It",
+      "angle": "Fresh news angle: a viral voice-effect feature making rounds on TikTok where players sound like their character (robot, mouse, dragon). Covers what it is, where to enable it, the safety filter for kids, and the 3 funniest clips this week. Avoids prior 'Brainrots' and 'Green Bean' angles.",
+      "word_target": 400,
+      "language_versions": [
+        "en",
+        "ua"
+      ]
+    },
+    {
+      "character": "dad",
+      "topic": "dad-corner",
+      "content_type": "review",
+      "title": "Dad's Corner: I Tried Building My First Roblox Map (And I May Have Made a Disaster)",
+      "angle": "FaionEnder reviews his very first Studio attempt — a tiny obby for his daughter. Funny mishaps (gravity at 0, parts floating, accidentally deleted spawn), what he learned, and an honest dad-rating of Studio's friendliness for total beginners. Zero overlap with prior 99 Nights / movie / trusted-friend dad pieces.",
+      "word_target": 600,
+      "language_versions": [
+        "en",
+        "ua"
+      ]
+    }
+  ]
+}

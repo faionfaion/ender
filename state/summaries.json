@@ -598,5 +598,15 @@
     "article_type": "news",
     "character": "dad",
     "summary_en": "FaionEnder's Dad's Corner covers Roblox's April 2026 Trusted Friends rollout for parents plus the latest 99 Nights in the Forest Easter Part 2 and Offerings updates, with family co-op tips."
+  },
+  {
+    "date": "2026-04-25",
+    "slug": "roblox-studio-agentic-ai-building-tools-2026",
+    "title_en": "Roblox Studio Just Went Agentic — Build Games With AI in 2026!",
+    "title_ua": "Roblox Studio став агентним — твори ігри з ШІ у 2026!",
+    "topic": "building-guides",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article covering Roblox Studio's April 2026 agentic AI update, including Mesh Generation, 4D Generation, Procedural Models, and Planning Mode for young builders."
   }
 ]
