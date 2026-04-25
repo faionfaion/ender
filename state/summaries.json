@@ -638,5 +638,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article about Steal a Brainrot becoming the first Roblox game to hit 25 million concurrent users, plus the Bruno Mars virtual concert and the Green Bean Avatar trend taking over Roblox in April 2026."
+  },
+  {
+    "date": "2026-04-25",
+    "slug": "dads-corner-99-nights-offerings-update",
+    "title_en": "Dad's Corner: The Offerings Update Is a Patience Lesson in Disguise",
+    "title_ua": "Татків куточок: Оновлення «Підношення» — це урок терпіння під маскою",
+    "topic": "dad-corner",
+    "article_type": "news",
+    "character": "dad",
+    "summary_en": "Dad's Corner news piece from FaionEnder covering the April 11–18, 2026 Offerings Update for 99 Nights in the Forest: layered Modifier Flames, the Sketchy Salesman NPC, and a patience-themed Day 1 strategy."
   }
 ]
