@@ -688,5 +688,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article about Roblox Studio's new AI-powered creation tools (Assistant, Texture Generator, Avatar Auto Setup) and how young builders can start making games today using free templates."
+  },
+  {
+    "date": "2026-04-28",
+    "slug": "dads-corner-surviving-99-nights-in-the-forest",
+    "title_en": "Dad's Corner: Surviving 99 Nights in the Forest (With My Kid!)",
+    "title_ua": "Татів куточок: як вижити 99 ночей у лісі (разом з донькою!)",
+    "topic": "dad-corner",
+    "article_type": "news",
+    "character": "dad",
+    "summary_en": "Dad's Corner news article: FaionEnder reflects on co-op runs of 99 Nights in the Forest with EnderFaion, explains the game's appeal for families, and shares three patience-themed survival tips."
   }
 ]
