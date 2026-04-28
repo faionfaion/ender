@@ -658,5 +658,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article by EnderFaion covering recent Roblox platform updates: new avatar customization options, PlayStation cross-play, AI creation tools in Studio, and trending games, with a brief dad's corner shoutout to FaionEnder."
+  },
+  {
+    "date": "2026-04-28",
+    "slug": "roblox-studio-ai-assistant-easy-game-building",
+    "title_en": "Roblox Studio's AI Assistant Just Made Building Games WAY Easier",
+    "title_ua": "AI-помічник у Roblox Studio робить створення ігор НАБАГАТО простішим",
+    "topic": "dev-tutorials",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article about Roblox Studio's AI-assisted creation tools (Assistant, Code Assist, Avatar Auto Setup, Texture Generator) framed as the easiest on-ramp for young builders, with pointers to the official Creator Hub tutorials."
   }
 ]
