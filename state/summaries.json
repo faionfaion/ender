@@ -678,5 +678,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article in EnderFaion's voice covering Grow a Garden breaking Roblox's all-time concurrent player record at 21M+, explaining gameplay, offline growth, mutations, and why kids love it."
+  },
+  {
+    "date": "2026-04-28",
+    "slug": "roblox-studio-ai-assistant-building-guide",
+    "title_en": "Roblox Studio Just Got an AI That Writes Scripts For You!",
+    "title_ua": "У Roblox Studio з'явився ШІ, який пише скрипти за тебе!",
+    "topic": "building-guides",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article about Roblox Studio's new AI-powered creation tools (Assistant, Texture Generator, Avatar Auto Setup) and how young builders can start making games today using free templates."
   }
 ]
