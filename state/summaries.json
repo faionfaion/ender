@@ -668,5 +668,15 @@
     "article_type": "news",
     "character": "ender",
     "summary_en": "News article about Roblox Studio's AI-assisted creation tools (Assistant, Code Assist, Avatar Auto Setup, Texture Generator) framed as the easiest on-ramp for young builders, with pointers to the official Creator Hub tutorials."
+  },
+  {
+    "date": "2026-04-28",
+    "slug": "grow-a-garden-roblox-record-21-million",
+    "title_en": "Grow a Garden Smashed Roblox's All-Time Player Record!",
+    "title_ua": "Grow a Garden побила абсолютний рекорд Roblox за кількістю гравців!",
+    "topic": "game-reviews",
+    "article_type": "news",
+    "character": "ender",
+    "summary_en": "News article in EnderFaion's voice covering Grow a Garden breaking Roblox's all-time concurrent player record at 21M+, explaining gameplay, offline growth, mutations, and why kids love it."
   }
 ]
