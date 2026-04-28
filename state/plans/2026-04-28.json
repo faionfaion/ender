@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-28",
+  "topics": [
+    {
+      "character": "ender",
+      "content_type": "news",
+      "topic": "roblox-updates",
+      "title_hint": "How Roblox Picks Today's Featured Games in 2026 (The Old Survey Is GONE)",
+      "angle": "Players are confused after the old survey closed — break down how the new Today's Picks algorithm actually chooses games, what it means for small devs, and how to land on the homepage. Fresh news angle inspired by RSS forum chatter, not yet covered."
+    },
+    {
+      "character": "ender",
+      "content_type": "lifehack",
+      "topic": "dev-tutorials",
+      "title_hint": "5 Annoying Roblox Bugs Driving Everyone Crazy — And the 1-Minute Fixes",
+      "angle": "Quick troubleshooting hits: nickname not appearing in-game, PlaySolo error on macOS, broken Studio controls, login glitches, and lag spikes. Pure lifehack — short numbered fixes, no fluff. Different from prior dev-tutorials posts which all focused on AI Studio."
+    },
+    {
+      "character": "ender",
+      "content_type": "review",
+      "topic": "game-reviews",
+      "title_hint": "I Played STUDWORKS — Is This the Next Big Roblox Builder Game?",
+      "angle": "Hands-on review of STUDWORKS, an indie builder game getting community feedback right now. Honest pros/cons, who it's for, comparison to Bloxburg/Build a Boat. Fresh non-Easter, non-Grow-a-Garden review angle."
+    },
+    {
+      "character": "ender",
+      "content_type": "guide",
+      "topic": "building-guides",
+      "title_hint": "Build Your First Obby From Scratch — No AI, Just You and Studio",
+      "angle": "Step-by-step beginner guide to building a working obby in Roblox Studio: parts, anchoring, kill bricks, checkpoints, publishing. Deliberately old-school / human-driven to contrast last week's three AI Studio posts. Aimed at kids who want to actually learn building."
+    },
+    {
+      "character": "dad",
+      "content_type": "top",
+      "topic": "dad-corner",
+      "title_hint": "Dad's Corner: 5 Chill Roblox Games I Actually Like Playing After Work",
+      "angle": "Dad ranks his top 5 low-stress Roblox games (fishing, tycoons, cozy sims) — NOT 99 Nights for once. Self-aware dad humor, perfect for parents who want to game with their kids without sweaty PvP. Breaks the recent 99-Nights streak in dad-corner."
+    }
+  ]
+}
